@@ -1,4 +1,4 @@
-<img width="1280" alt="Screenshot" src="./images/Demo.gif"></div>
+<img width="1280" alt="Screenshot" src="./screenshot.png"></div>
 
 <div align="center">
   <h3>
@@ -25,10 +25,10 @@ From my coding sprints session on python I learnt how to use lists to display th
 
 ## Code I Am Proud Of :smiley:
 
-![widgits for pop up window]()
+![widgits for pop up window](./widgits for popup.png)
 
 
-![Grid padding using lists]()
+![Grid padding using lists](./grid padding using lists.png)
 
 
 
