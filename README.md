@@ -1,6 +1,6 @@
-<img width="1280" alt="Screenshot" src="./screenshot.png"></div>
+<img width="280" alt="Screenshot" src="./screenshot.png"></div>
 
-<div align="center">
+<div align="left">
   <h3>
     <a href="https://osaze-ai.github.io/travel-blog/" color="white">
       Live
@@ -25,11 +25,13 @@ From my coding sprints session on python I learnt how to use lists to display th
 
 ## Code I Am Proud Of :smiley:
 
-![widgits for pop up window](./widgits for popup.png)
+![widgits for popup](https://github.com/Osaze-ai/tkinter-popup-window/assets/130580788/cea7c772-93e3-4dc9-85a4-f58dec1b1946)
 
+Widgits for pop up window
 
-![Grid padding using lists](./grid padding using lists.png)
+![grid padding using lists](https://github.com/Osaze-ai/tkinter-popup-window/assets/130580788/8eb90766-668b-4c7e-b51a-ee456a30daa0)
 
+Grid padding using lists
 
 
 
