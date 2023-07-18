@@ -1,10 +1,5 @@
 <img width="280" alt="Screenshot" src="./screenshot.png"></div>
 
-<div align="left">
-  <h3>
-    <a href="https://osaze-ai.github.io/travel-blog/" color="white">
-      Live
-    </div>
       
 # Tkinter pop up window 
 
@@ -34,10 +29,6 @@ Widgits for pop up window
 Grid padding using lists
 
 
-
-## CHECK IT OUT :film_strip:
-
-<h4> <a href="" color="white"> LIVE </a> </div>
 
 
 
